@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="94" height="50" viewBox="0 0 94 50">
+    <defs>
+        <linearGradient id="a" x1=".826" y1=".5" x2=".027" y2=".5" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#99ae84"/>
+            <stop offset="1" stop-color="#5e7460"/>
+        </linearGradient>
+    </defs>
+    <g data-name="Group 1013">
+        <path data-name="Rectangle 1101" d="M0 0h69a25 25 0 0 1 25 25 25 25 0 0 1-25 25H0V0z" style="fill:url(#a)"/>
+        <g data-name="Group 809">
+            <g data-name="Ellipse 135" style="stroke-linejoin:round;stroke:#fff;stroke-linecap:round;stroke-width:3px;fill:none" transform="translate(39.196 16.226)">
+                <circle cx="7.803" cy="7.803" r="7.803" style="stroke:none"/>
+                <circle cx="7.803" cy="7.803" r="6.303" style="fill:none"/>
+            </g>
+            <path data-name="Line 47" transform="translate(51.407 30.03)" style="stroke:#fff;stroke-linecap:round;stroke-width:3px;fill:none" d="m0 0 3.243 3.745"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="84">
+    <defs>
+        <clipPath id="a">
+            <path data-name="Rectangle 1016" transform="translate(0 236)" style="fill:#fff;stroke:#707070" d="M0 0h320v84H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Mask Group 135" transform="translate(0 -236)" style="clip-path:url(#a)">
+        <ellipse data-name="Ellipse 141" cx="255.697" cy="228.15" rx="255.697" ry="228.15" transform="translate(-33.941 275.094)" style="fill:#99ae84"/>
+        <path data-name="Path 227" d="M398.094 0c219.862 0 398.094 102.146 398.094 228.15S617.956 456.3 398.094 456.3 0 354.154 0 228.15 178.233 0 398.094 0z" transform="translate(-369.941 262.602)" style="fill:#c3d4a0"/>
+    </g>
+</svg>

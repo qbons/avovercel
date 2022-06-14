@@ -3,7 +3,7 @@ const settings = {
 	state: {
 		frontity: {
 			//url: 'http://avoblog.test',
-			url: 'https://blog3.avoskinbeauty.com',
+			url: 'https://avovercel.vercel.app',
 			title: 'Avoskin Blog Theme',
 			description:
 				'Avoskin Blog Theme'
@@ -17,7 +17,7 @@ const settings = {
 			name: '@frontity/wp-source',
 			state: {
 				source: {
-					url: 'https://blog3.avoskinbeauty.com'
+					url: 'https://blog-admin.avoskinbeauty.com'
 					//url: 'http://avoblog.test'
 				}
 			}

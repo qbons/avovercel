@@ -18,7 +18,7 @@ const avoblogTheme = {
 			options: [],
 			navigation: [],
 			widget: [],
-			api: 'https://blog3.avoskinbeauty.com/wp-json/avoblog/v1/',
+			api: 'https://blog-admin.avoskinbeauty.com/wp-json/avoblog/v1/',
 			//api: 'http://avoblog.test/wp-json/avoblog/v1/',
 		},
 	},
